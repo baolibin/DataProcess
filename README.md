@@ -12,4 +12,5 @@
 |Impala|大数据实时查询分析工具|
 |Phoenix|基于HBase的Sql工具|
 |Presto|完全基于内存，并行计算，分布式Sql交互式查询引擎|
+|Storm|流式计算框架|
 
